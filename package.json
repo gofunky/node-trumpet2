@@ -12,7 +12,7 @@
   "devDependencies": {
     "@hutson/npm-deploy-git-tag": "6.0.0",
     "babel-eslint": "10.1.0",
-    "codecov": "3.8.1",
+    "codecov": "3.8.2",
     "coffeescript": "2.5.1",
     "concat-stream": "2.0.0",
     "eslint": "7.12.1",
