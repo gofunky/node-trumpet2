@@ -15,7 +15,7 @@
     "codecov": "3.8.1",
     "coffeescript": "2.5.1",
     "concat-stream": "2.0.0",
-    "eslint": "7.12.1",
+    "eslint": "7.28.0",
     "eslint-config-standard": "16.0.2",
     "eslint-plugin-html": "6.1.2",
     "eslint-plugin-import": "2.22.1",
